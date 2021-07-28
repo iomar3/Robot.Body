@@ -1,13 +1,17 @@
 # The design was based on a Morphological anlysis with the following criteria  
 1. Motor Type
+* DC, AC, Servo
 2. Number of Tires 
+* 2, 3, 4
 3. Body Shape 
+* Rectangle, Tringle, Square
 4. Body Material
+* Aluminum, Wood, Steel 
 
 # Three approaches were presented as follow
 1. First Approach
 * Dc Motor, 2 Wheels, Tringle body, Wood material 
-1. Second Approach
+2. Second Approach
 * Ac Motor, 2 Wheels, Square body, Aluminum material
 3. Third Approach 
 * DC Motor, 4 Wheels, Rectangular body, Aluminum material
