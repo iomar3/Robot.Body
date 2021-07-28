@@ -1,4 +1,4 @@
-# The design was based on a Morphological anlysis with the following criteria  
+# The design was based on a Morphological analysis with the following criteria  
 1. Motor Type
 * DC, AC, Servo
 2. Number of Tires 
